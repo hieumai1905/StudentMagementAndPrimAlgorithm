@@ -1,0 +1,3 @@
+/Users/Documents/outsource/ctdl/code/bai4/cmake-build-debug/CMakeFiles/bai4.dir
+/Users/Documents/outsource/ctdl/code/bai4/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/Documents/outsource/ctdl/code/bai4/cmake-build-debug/CMakeFiles/rebuild_cache.dir

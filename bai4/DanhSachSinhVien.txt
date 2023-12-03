@@ -1,0 +1,5 @@
+1,Nguyen Van A,20,Male,10A
+2,Tran Thi B,21,Female,10B
+3,Le Tuan C,22,Male,10C
+4,Pham Anh D,19,Male,10E
+6,mai thi hanh,25,Male,11D
